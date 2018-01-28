@@ -1,0 +1,35 @@
+{
+  "name": "iota",
+  "version": "1.0.0",
+  "description": "IOTA playground for distributed fun and exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallond/iota.git"
+  },
+  "keywords": [
+    "IOTA",
+    "distributed",
+    "DAG",
+    "DAPP",
+    "Blockchain",
+    "IOT",
+    "BOT",
+    "Node-red",
+    "Javascript",
+    "Node"
+  ],
+  "author": "David Mallon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mallond/iota/issues"
+  },
+  "homepage": "https://github.com/mallond/iota#readme",
+  "dependencies": {
+    "iota.lib.js": "^0.4.6",
+    "request": "^2.83.0"
+  }
+}
