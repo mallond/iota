@@ -1,15 +1,13 @@
 # iota
 IOTA Playground
 
-## Credit
-> Reference modified from orginal source
-> [IOTA Readme.io](https://iota.readme.io/v1.2.0/reference)
 
-# API Examples
+# API Example Runs
 > example run: node ./lib/getNodeInfo.js
-- getNodeInfo [source](https://github.com/mallond/iota/blob/master/lib/getNodeInfo.js) 
-
--
+- getNodeInfo   
+- getNeighbors 
+- getTips
+- getTranactions
 
 ### Links and things
 
