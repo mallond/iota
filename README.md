@@ -7,7 +7,7 @@ IOTA Playground
 
 # API Examples
 
-- getNodeInfo
+- getNodeInfo [source](https://github.com/mallond/iota/blob/master/lib/getNodeInfo.js)
 -
 
 ### Links and things
