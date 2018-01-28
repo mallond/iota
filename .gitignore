@@ -59,6 +59,8 @@ typings/
 
 scaffold
 
-.idea
+
+package-lock.json
 
 
+.ideasave
