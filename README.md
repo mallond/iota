@@ -7,7 +7,7 @@ IOTA Playground
 - getNodeInfo   
 - getNeighbors 
 - getTips
-- getTranactions
+- getTransactions
 
 ### Links and things
 
