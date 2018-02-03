@@ -19,6 +19,9 @@ SEED: process.env.SEED
 - findTransaction
 
 ## Simulate
+
+![model](https://user-images.githubusercontent.com/993459/35770301-18422866-08de-11e8-91f4-e37528c0dc94.png)
+
 - Digital Twin, Seed (DT), Address (TAG), Authenticate, get stream data
 
 1. Machine requests seed and receives a transfer of one coin into seed account - this is the Digital Twin - or genesis transaction
