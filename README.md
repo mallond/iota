@@ -1,4 +1,6 @@
-![iota369](https://user-images.githubusercontent.com/993459/35762910-ea95981c-0865-11e8-9e1b-5129a59b765b.png)
+![iota369](https://user-images.githubusercontent.com/993459/35762946-de9bdea8-0866-11e8-8427-f0924b28b445.png)
+
+
 
 # iota
 IOTA Playground 
