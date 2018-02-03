@@ -1,19 +1,18 @@
-# iota
-IOTA Playground
+![iota369](https://user-images.githubusercontent.com/993459/35762910-ea95981c-0865-11e8-9e1b-5129a59b765b.png)
 
-# Comments
-Jan 28th, 2018 - I have been playing with IOTA, sending and receiving coins. And as of today's date, I will  
-take a breather for a bit. The API base is way to unpredictable and Slow. 
-However, their technical specs, vision, and model is - Right on target of what the IOT API should be like. 
-Will come back here in a few months.
+# iota
+IOTA Playground 
+
 
 # API Example Runs
-> example run: node ./lib/getNodeInfo.js
-- getNodeInfo   
-- getNeighbors 
-- getTips
-- getTransactions
+
+- sendTransfer   
+
+> Important: This example needs a PoW server. Search for PoW server using the link below
+-[Servers with PoW](http://iota.dance/nodes/)
+
 
 ### Links and things
 
 - [iota.lib.js](https://github.com/iotaledger/iota.lib.js/)
+- [Command line](https://github.com/iotaledger/cli-app)
