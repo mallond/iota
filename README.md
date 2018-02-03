@@ -9,10 +9,13 @@ IOTA Playground
 
 # API Example Runs
 
-- sendTransfer   
-> Important: This example needs a PoW server. Search for PoW server using the link below
-> [Servers with PoW](http://iota.dance/nodes/)
-> SEED: process.env.SEED
+- sendTransfer 
+```
+Important: This example needs a PoW server. Search for PoW server using the link below
+[Servers with PoW](http://iota.dance/nodes/)
+SEED: process.env.SEED
+```
+
 - findTransaction
 
 
