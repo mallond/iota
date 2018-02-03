@@ -18,8 +18,22 @@ SEED: process.env.SEED
 
 - findTransaction
 
+## Simulate
+- Digital Twin, Seed (DT), Address (TAG), Authenticate, get stream data
+
+1. Machine requests seed and receives a transfer of one coin into seed account - this is the Digital Twin - or genesis transaction
+2. Machine address(es) contains key int the iota.tag to services i.e. code lookup for application, roles etc
+3. HMAC message (iota.tag) is the Machine address, where the machine and services have a shared secret-key
+
+1a. Machines can have unlimited Digital Twins, or interested parties. Intrested parties must transfer coins for service access
+2a. Machine address can be zeroed out of value, or kind of a shut off bit
+
+> This is like a distributed directory service, authentication, roles and driver to machine data
+
+
 
 ### Links and things
 
 - [iota.lib.js](https://github.com/iotaledger/iota.lib.js/)
 - [Command line](https://github.com/iotaledger/cli-app)
+- [Digital Twin](https://medium.com/@cstoecker/implementing-first-industry-4-0-use-cases-with-iota-dag-tangle-machine-tagging-for-digital-twins-baf1943c499d)
