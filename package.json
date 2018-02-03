@@ -29,7 +29,6 @@
   },
   "homepage": "https://github.com/mallond/iota#readme",
   "dependencies": {
-    "iota.lib.js": "^0.4.7",
-    "request": "^2.83.0"
+    "iota.lib.js": "^0.4.7"
   }
 }
