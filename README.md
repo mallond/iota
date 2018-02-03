@@ -25,8 +25,8 @@ SEED: process.env.SEED
 2. Machine address(es) contains key int the iota.tag to services i.e. code lookup for application, roles etc
 3. HMAC message (iota.tag) is the Machine address, where the machine and services have a shared secret-key
 
-1a. Machines can have unlimited Digital Twins, or interested parties. Intrested parties must transfer coins for service access
-2a. Machine address can be zeroed out of value, or kind of a shut off bit
+- 1a Machines can have unlimited Digital Twins, or interested parties. Intrested parties must transfer coins for service access
+- 2a Machine address can be zeroed out of value, or kind of a shut off bit
 
 > This is like a distributed directory service, authentication, roles and driver to machine data
 
